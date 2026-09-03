@@ -6,3 +6,9 @@ body{
     font-family: 'Times New Roman',cursive;
     background-color: #73030D;
 }
+nav{
+    background-color: #F2F2F2;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
